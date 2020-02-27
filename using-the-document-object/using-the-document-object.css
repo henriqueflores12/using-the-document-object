@@ -1,0 +1,38 @@
+html {
+  background-color: aqua;
+  height: 100%;
+  width: 100%;
+}
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://ctl.s6img.com/society6/img/HDwNyMQGmM6CZ5DTT94vxCvbtWs/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/e87a8ee31ddb4c7d9a0923b647e3be4c/~~/spartan-warrior-sparta-greek-fighter-sword-power1921818-prints.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+#table {
+  display: grid;
+  justify-content: center;
+  height: 90%;
+  width: 100%;
+  font-size: x-large;
+}
+
+#tr {
+  display: grid;
+  justify-content: center;
+  height: 90%;
+  width: 100%;
+  margin-top: 25mm;
+}
+#footer {
+  background-color: green;
+  height: 30%;
+  width: 100%;
+  font-size: 13mm;
+  margin: 0px;
+  border: 3px solid black;
+}
+#footer:hover {
+  background-color: crimson;
+}
